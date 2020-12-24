@@ -1,0 +1,17 @@
+[
+ {
+  "id": 0
+ },
+ {
+  "id": 1,
+  "email": "litomasm2006@hotmail.com",
+  "password": "$2a$10$HBO1R9fWjuk/yzKH2VLtsescBFxUeDTELLKFLa2fga0x/xLVSQdsq"
+ },
+ {
+  "id": 2,
+  "avatar": "1608835376644-275.JPG",
+  "email": "litomasm2008@gmail.com",
+  "password": "$2a$05$eOnQ6NpZQYphnBHKwtljE.1Ai1voG9Zvs2IwLRAc921l7wk18bHU.",
+  "retype": "$2a$05$eOnQ6NpZQYphnBHKwtljE.1Ai1voG9Zvs2IwLRAc921l7wk18bHU."
+ }
+]

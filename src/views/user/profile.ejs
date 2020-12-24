@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<!-- Include Head -->
+<%- include('../partials/head', { title: "Hola"}) %>
+
+<body>
+   <!-- Header -->
+   <%- include('../partials/headerNavbar') %>
+   <!-- /Header -->
+
+   <div class="container products-wrapper">
+      <div class="row justify-content-center">
+         <div class="col-12">
+            <h2 class="products-title"><%= email %></h2>
+         </div>
+         <div class="col-8">
+            <div class="row product-detail justify-content-center">
+               <div class="col-8 my-3">
+                  <img src="/images/users/default-image.png" alt="">
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <!-- footer -->
+   <%- include('../partials/footer') %>
+   <!-- /footer -->
+</body>
+
+</html>
